@@ -1,5 +1,6 @@
 import { enare2024Questions } from './enare2024Data';
 import { amrigs2024Questions } from './amrigs2024Data';
+import { usp2023Questions } from './usp2023Data';
 
 export const examsData = [
     {
@@ -27,24 +28,9 @@ export const examsData = [
         title: "USP-SP 2023 - Acesso Direto",
         institution: "USP-SP",
         year: 2023,
-        description: "Prova da Universidade de São Paulo. Foco em casos clínicos complexos.",
-        questionsCount: 5,
-        timeLimit: 15,
-        questions: [
-            {
-                id: 1,
-                area: "Clínica Médica",
-                text: "Paciente com fibrilação atrial valvar (estenose mitral moderada). Qual o anticoagulante de escolha?",
-                options: [
-                    { id: "a", text: "Rivaroxabana" },
-                    { id: "b", text: "Dabigatrana" },
-                    { id: "c", text: "Varfarina" },
-                    { id: "d", text: "Aspirina" },
-                    { id: "e", text: "Enoxaparina" }
-                ],
-                correctOption: "c",
-                comment: "Na FA valvar (estenose mitral moderada a grave ou prótese mecânica), os NOACs (novos anticoagulantes orais) são contraindicados. A droga de escolha é a Varfarina (antagonista da vitamina K)."
-            }
-        ]
+        description: "Prova de Acesso Direto da USP-SP 2023. 120 Questões.",
+        questionsCount: 120,
+        timeLimit: 300,
+        questions: usp2023Questions
     }
 ];
