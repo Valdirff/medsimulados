@@ -1,4 +1,5 @@
 import { enare2024Questions } from './enare2024Data';
+import { amrigs2024Questions } from './amrigs2024Data';
 
 export const examsData = [
     {
@@ -10,6 +11,16 @@ export const examsData = [
         questionsCount: 100,
         timeLimit: 240,
         questions: enare2024Questions
+    },
+    {
+        id: "amrigs-2024",
+        title: "AMRIGS 2024 - Acesso Direto",
+        institution: "AMRIGS",
+        year: 2024,
+        description: "Prova completa oficial. 100 Questões Comentadas.",
+        questionsCount: 100,
+        timeLimit: 300,
+        questions: amrigs2024Questions
     },
     {
         id: "usp-2023-1",
