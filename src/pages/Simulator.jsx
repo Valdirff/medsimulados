@@ -124,6 +124,20 @@ export function Simulator() {
                         {currentQuestion.text}
                     </p>
 
+                    {/* Imagens da Questão */}
+                    {currentQuestion.images && currentQuestion.images.length > 0 && (
+                        <div style={{ display: 'flex', flexDirection: 'column', gap: '1rem', marginBottom: 'var(--spacing-lg)' }}>
+                            {currentQuestion.images.map((imgSrc, index) => (
+                                <img
+                                    key={index}
+                                    src={imgSrc}
+                                    alt={`Imagem ${index + 1} da questão`}
+                                    style={{ maxWidth: '100%', borderRadius: 'var(--radius-sm)', border: '1px solid var(--color-border)' }}
+                                />
+                            ))}
+                        </div>
+                    )}
+
                     {/* Alternativas */}
                     <div className="options-grid" style={{ display: 'grid', gap: 'var(--spacing-sm)' }}>
                         {currentQuestion.options.map(option => {

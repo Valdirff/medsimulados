@@ -3,6 +3,7 @@ export const usp2023Questions = [
         "id": 1,
         "area": "Cirurgia Geral",
         "text": "Homem, 72 anos de idade, procura o Serviço de Urgência devido à  dor no flanco e na fossa ilíaca esquerdos há 2 dias. Fez uso de analgésico sem melhora. Refere ser constipado e está sem evacuar há três dias. Nega febre e relata perda de apetite. Tem diabete melito e hipertensão arterial controlados. Ao exame clínico, encontra-se em bom estado geral; IMC 30,2 kg/m2; FC 80 bpm; PA 130x80 mmHg; sem alterações da ausculta torácica; abdome globoso, flácido, doloroso à palpação do flanco e da fossa ilíaca esquerdos, com sinal de irritação peritoneal neste local; ruídos hidroaéreos presentes; e toque retal com fezes na ampola. Exames laboratoriais: Hb 13,1 g/dL; Ht 38%; Leucócitos 15.693/mm3; PCR 138 mg/L. Tomografia apresentada. Qual é a melhor conduta neste momento?",
+        "images": ["/medsimulados/images/usp2023/page_3_img_1.png"],
         "options": [
             {
                 "id": "a",
@@ -28,6 +29,7 @@ export const usp2023Questions = [
         "id": 2,
         "area": "Cirurgia Geral",
         "text": "Mulher, 65 anos de idade, está internada na enfermaria, no sext o dia de pós-operatório de colectomia direita por câncer de cólon. Evoluiu com dor abdominal, vômitos e febre. Ao exame clínico, encontra-se em bom estado geral, FC de 100 bpm e PA de 110x70 mmHg; dor abdominal à palpação difusa com ir ritação peritoneal. Realizada a tomografia de abdome total com imagem compatível com deiscência da anastomose intest inal. Foi indicada lapar otomia exploradora com presença de peritonite purulenta e deiscência da anastomose. Dentre as alternativas abaixo, q ual é o esquema de antibioticot erapia mais adequado?",
+        "images": ["/medsimulados/images/usp2023/page_3_img_1.png"],
         "options": [
             {
                 "id": "a",
@@ -53,6 +55,7 @@ export const usp2023Questions = [
         "id": 3,
         "area": "Cirurgia Geral",
         "text": "Mulher, 63 anos de idade, refere dor abdominal de forte intensi dade, difusa e de início súbito há 2 horas. Nega vômitos. Última evacuação há 1 dia. Tem artrite reumatoide. Faz uso de um imunossupressor e corticoide. Na última semana, tomou cetoprofeno devido à dor nas mãos. Ao exame clínico, encontra-se em regular estado geral; FC 110 bpm; PA 100x60 mmHg; abdome plano, doloroso à palpação; e sinal de irritação peritoneal difusa. Exames laboratoriais: Hb 11,9 g/dL; Ht 32%; leucócitos 18.318/mm3; PCR 84 mg/L; amilase 251 U/L; lipase 101 U/L. Foi realizada tomografia de abdome. Assinale a alternativa que contém imagens que correspondem à principal hipótese diagnóstica?",
+        "images": ["/medsimulados/images/usp2023/page_3_img_1.png"],
         "options": [
             {
                 "id": "a",
@@ -78,6 +81,7 @@ export const usp2023Questions = [
         "id": 4,
         "area": "Cirurgia Geral",
         "text": "Homem, 23 anos de idade, refere dor na região perianal há 3 dias com piora progressiva e exacerbação ao sentar e evacuar. Relata febre há 12 horas. Teve a última evacuação há 2 dias e tem hábito intestinal diário normal. Sem queixas urinárias. Nega comorbidades. Tem vida sexual ativa com relação anal, sem parceiro fixo. Ao exame clínico, encontra-se em bom estado geral; abdome sem alterações. Inspeção anal com abaulamento em posição equivalente a “3 horas”, dor à palpação local e saída de secreção purulenta em pequena quantidade, em posição equivalente a “7 horas”, em orifício fistuloso (imagem a seguir). Toque retal muito doloroso, sem sangue ou lesão tumoral. Exames laboratorias Hb de 13,5 g/dL; Leucograma 16.274  mm3; PCR 129 mg/L. Realizada tomografia de pelve (imagens a seguir) ] Qual é a etiologia mais comum desta doença?",
+        "images": ["/medsimulados/images/usp2023/page_5_img_1.png", "/medsimulados/images/usp2023/page_5_img_12.png", "/medsimulados/images/usp2023/page_5_img_13.png", "/medsimulados/images/usp2023/page_5_img_14.png", "/medsimulados/images/usp2023/page_5_img_15.png", "/medsimulados/images/usp2023/page_5_img_16.png"],
         "options": [
             {
                 "id": "a",
@@ -103,6 +107,7 @@ export const usp2023Questions = [
         "id": 5,
         "area": "Cirurgia Geral",
         "text": "Homem, 19 anos de idade, procurou o Serviço de Emergência devido à dor abdominal há 1 dia. Não apresenta comorbidades. O paciente foi submetido a tratamento operatório com os achados apresentados. O procedimento evoluiu sem intercorrências. Qual deve ser a dieta no primeiro pós-operatório e quando deve receber alta hospitalar?",
+        "images": ["/medsimulados/images/usp2023/page_5_img_1.png", "/medsimulados/images/usp2023/page_5_img_12.png", "/medsimulados/images/usp2023/page_5_img_13.png", "/medsimulados/images/usp2023/page_5_img_14.png", "/medsimulados/images/usp2023/page_5_img_15.png", "/medsimulados/images/usp2023/page_5_img_16.png"],
         "options": [
             {
                 "id": "a",
@@ -128,6 +133,7 @@ export const usp2023Questions = [
         "id": 6,
         "area": "Cirurgia Geral",
         "text": "Mulher, 54 anos de idade, está no 6º pós-operatório de correção de hérnia incisional de laparotomia mediana com colocação de tela de polipropileno sobre a aponeurose (técnica onlay). Foi colocado dreno no subcutâneo. Evoluiu com dor na incisão e com saída de secreção espessa e purulenta. Ao exame clínico, encontra- s e  e m  b o m  e s t a d o  g e r a l ,  a f e b r i l ,  a b d o m e  ( i m a g e m  a seguir) flácido e pouco doloroso à palpação. Qual deve ser a conduta neste momento?",
+        "images": ["/medsimulados/images/usp2023/page_5_img_1.png", "/medsimulados/images/usp2023/page_5_img_12.png", "/medsimulados/images/usp2023/page_5_img_13.png", "/medsimulados/images/usp2023/page_5_img_14.png", "/medsimulados/images/usp2023/page_5_img_15.png", "/medsimulados/images/usp2023/page_5_img_16.png"],
         "options": [
             {
                 "id": "a",
@@ -153,6 +159,7 @@ export const usp2023Questions = [
         "id": 7,
         "area": "Cirurgia Geral",
         "text": "Mulher, 63 anos de idade, foi submetida à correção de hérnia incisional de laparot omia mediana. Foi feita a correção da hérnia com colocação de tela pré- aponeurótica (onlay) e drenagem fechada do subcutâneo. Recebeu alta hospitalar no 4º pós-operatório após a r e t i r a d a  d o  d r e n o .  A  p a c i e n t e  r e t o r n a  e m  c o n s u l t a ambulatorial, 7 dias após a alta, com queixa de abaulamento na incisão. Ao ex ame clínico, encontra-se em bom estado geral; abdome flácido, indolor à palpação, presença de coleção líquida no subcutâneo, sem sinais inflamatórios. Ultrassom de parede abdominal apresentado. Qual deve ser a conduta neste momento?",
+        "images": ["/medsimulados/images/usp2023/page_5_img_1.png", "/medsimulados/images/usp2023/page_5_img_12.png", "/medsimulados/images/usp2023/page_5_img_13.png", "/medsimulados/images/usp2023/page_5_img_14.png", "/medsimulados/images/usp2023/page_5_img_15.png", "/medsimulados/images/usp2023/page_5_img_16.png"],
         "options": [
             {
                 "id": "a",
@@ -178,6 +185,7 @@ export const usp2023Questions = [
         "id": 8,
         "area": "Cirurgia Geral",
         "text": "Homem, 57 anos de idade, foi submetido à correção de hérnia incisional de laparot omia mediana com colocação de tela sobre a aponeurose (imagem a seguir). Qual é o princípio de funcionamento do dreno indicado para esta situação?",
+        "images": ["/medsimulados/images/usp2023/page_6_img_1.png", "/medsimulados/images/usp2023/page_6_img_2.png", "/medsimulados/images/usp2023/page_6_img_3.png", "/medsimulados/images/usp2023/page_6_img_4.png"],
         "options": [
             {
                 "id": "a",
@@ -203,6 +211,7 @@ export const usp2023Questions = [
         "id": 9,
         "area": "Cirurgia Geral",
         "text": "Homem, 33 anos, vítima de ac idente de motocicleta em a l t a  v e l o c i d a d e .  F o i  i n t u b a d o  n a  c e n a  d e v i d o  à inconsciência. Condições na admissão no Serviço de Emergência: I – entubado, saturação de O2 85%, colar cervical; II – escoriação no tórax direito, ausculta diminuída à direita, sem enfisema de subcutâneo; III – PA 140x80 mmHg, FC 100 bpm, FAST negativo. IV – escala de Coma de Glasgow de 3T, sedado; V – fratura exposta de perna direita. Encaminhado para tomografia Qual deve ser a conduta com relação ao trauma de tórax?",
+        "images": ["/medsimulados/images/usp2023/page_6_img_1.png", "/medsimulados/images/usp2023/page_6_img_2.png", "/medsimulados/images/usp2023/page_6_img_3.png", "/medsimulados/images/usp2023/page_6_img_4.png"],
         "options": [
             {
                 "id": "a",
@@ -228,6 +237,7 @@ export const usp2023Questions = [
         "id": 10,
         "area": "Cirurgia Geral",
         "text": "Homem, 42 anos, vítima de colisão de moto contra a n t e p a r o  f i x o ,  c o m  t r a u m a t i s m o  c r a n i a n o .  N a  s a l a  d e trauma, encontra-se entubado, em ventilação mecânica protetora. A tomografia de crânio mostra edema cerebral difuso, sem lesões focais ou sinais de hipertensão intracraniana. Qual é a conduta com relação ao trauma de crânio na Sala de Trauma?",
+        "images": ["/medsimulados/images/usp2023/page_6_img_1.png", "/medsimulados/images/usp2023/page_6_img_2.png", "/medsimulados/images/usp2023/page_6_img_3.png", "/medsimulados/images/usp2023/page_6_img_4.png"],
         "options": [
             {
                 "id": "a",
@@ -253,6 +263,7 @@ export const usp2023Questions = [
         "id": 11,
         "area": "Cirurgia Geral",
         "text": "Mulher, 59 anos de idade, foi admitida no Serviço de Emergência devido à melena há 6 dias. Nega alteração do hábito intestinal. Sem comorbidades. Relata ingestão de bebida alcóolica nos finais de semana (1 lata de cerveja). Fez uso de anti-inflamatório há 1 mês. Ao exame clínico, e n c o n t r a - s e  e m  b o m  e s t a d o  g e r a l ;  d e s c o r a d a ;  a b d o m e flácido; sem massas palpáveis; e ausência de ascite. Exames laboratoriais: Hb 8,7 g/dL; Ht 26%; Plaquetas 231 mil/mm3; INR 1,1. Foi realizada a endoscopia digestiva alta que mostrou a seguinte lesão no corpo gástrico: Considerando o quadro clínico e o achado endoscópico, qual é o diagnóstico mais provável?",
+        "images": ["/medsimulados/images/usp2023/page_6_img_1.png", "/medsimulados/images/usp2023/page_6_img_2.png", "/medsimulados/images/usp2023/page_6_img_3.png", "/medsimulados/images/usp2023/page_6_img_4.png"],
         "options": [
             {
                 "id": "a",
@@ -278,6 +289,7 @@ export const usp2023Questions = [
         "id": 12,
         "area": "Cirurgia Geral",
         "text": "Lactente de 2 anos de idade, o ligossintomático, é trazido à consulta ambulatorial por apresentar a seguinte imagem radiográfica: Qual é a principal hipótese diagnóstica?",
+        "images": ["/medsimulados/images/usp2023/page_7_img_1.png", "/medsimulados/images/usp2023/page_7_img_2.png"],
         "options": [
             {
                 "id": "a",
@@ -303,6 +315,7 @@ export const usp2023Questions = [
         "id": 13,
         "area": "Cirurgia Geral",
         "text": "O exame da cavidade oral tem por objetivo o diagnóstico precoce de tumores malignos. Considerando-se o tipo histológico mais comum, assinale o local mais frequentemente acometido.",
+        "images": ["/medsimulados/images/usp2023/page_7_img_1.png", "/medsimulados/images/usp2023/page_7_img_2.png"],
         "options": [
             {
                 "id": "a",
@@ -328,6 +341,7 @@ export const usp2023Questions = [
         "id": 14,
         "area": "Cirurgia Geral",
         "text": "H o m e m ,  2 8  a n o s  d e  i d a d e ,  p e s a n d o  a p r o x i m a d a m e n t e 70 Kg, vem encaminhado ao  Pronto Atendimento com história de queimadura térmica por explosão de frasco de álcool líquido em casa, enquanto fazia churrasco. O exame clínico de entrada mostrou queimaduras de segundo grau em face, membros superiores e tórax anterior, totalizando 10% da superfície corporal. Assinale a alternativa com as condutas adequadas.",
+        "images": ["/medsimulados/images/usp2023/page_7_img_1.png", "/medsimulados/images/usp2023/page_7_img_2.png"],
         "options": [
             {
                 "id": "a",
@@ -353,6 +367,7 @@ export const usp2023Questions = [
         "id": 15,
         "area": "Cirurgia Geral",
         "text": "Mulher, 27 anos, há 1 ano foi submetida à derivação gástrica em Y de Roux para tratamento de obesidade. Refere perda de 40 kg neste período. Procura o Serviço de Emergência devido à dor abdominal intensa, em cólica di f u s a ,  c o m  i n í c i o  h á  4  h o r a s . Relata náuseas, porém sem vômitos. Nega melhora com analgésicos. Ao exame clínico, encontra-se em posição antálgica, FC 122 bpm, abdome pouco distendido, doloroso em hipocôndrio esquerdo, sem sinais de irritação peritoneal e com ruídos hidroaéreos aumentados em frequência. Exames laboratoriais:  Hb 11,2 g/dL; Ht 38%; Leucograma 17.223/mm3; PCR  17 mg/L; Ureia  90 mg/dL; Creatinina 1,7 mg/dL. Tomografia de abdome apresentada abaixo. Qual deve ser a conduta, além de hidratação e analgesia?",
+        "images": ["/medsimulados/images/usp2023/page_7_img_1.png", "/medsimulados/images/usp2023/page_7_img_2.png"],
         "options": [
             {
                 "id": "a",
@@ -378,6 +393,7 @@ export const usp2023Questions = [
         "id": 16,
         "area": "Cirurgia Geral",
         "text": "Homem, 61 anos, refere sangramento intermitente nas evacuações e sangue vivo no final da evacuação e no papel higiênico. As fezes têm cor e consistência normais. Evacua a cada 3 dias e refere fezes ressecadas. Fez colonoscopia há 2 anos, que evidenciou doença diverticular difusa. Exames clínico e laboratoriais sem alterações. Toque retal normal e exame proctológico conforme as imagens a seguir (figuras 2 e 3 representam anuscopia; seta ilustra a linha pectínea). Figura 1     Figura 2            Figura 3 Qual é a melhor conduta?",
+        "images": ["/medsimulados/images/usp2023/page_8_img_1.png", "/medsimulados/images/usp2023/page_8_img_2.png", "/medsimulados/images/usp2023/page_8_img_3.png", "/medsimulados/images/usp2023/page_8_img_4.png"],
         "options": [
             {
                 "id": "a",
@@ -403,6 +419,7 @@ export const usp2023Questions = [
         "id": 17,
         "area": "Cirurgia Geral",
         "text": "Homem, 65 anos, com diagnóstico de diabetes mellittus há 10 anos, procura serviço médico com história de surgimento de lesão em face medial e dorso do pé direito há 10 dias, após caminhada com um sapato novo. Nega c l a u d i c a ç ã o  p r é v i a .  A o  e x a m e  c l í n i c o ,  a l é m  d a  l e s ã o  d a f o t o  a  s e g u i r ,  a p r e s e n t a  p u l s o s  p o p l í t e o  e  t i b i a i s presentes. Qual é a conduta?",
+        "images": ["/medsimulados/images/usp2023/page_8_img_1.png", "/medsimulados/images/usp2023/page_8_img_2.png", "/medsimulados/images/usp2023/page_8_img_3.png", "/medsimulados/images/usp2023/page_8_img_4.png"],
         "options": [
             {
                 "id": "a",
@@ -428,6 +445,7 @@ export const usp2023Questions = [
         "id": 18,
         "area": "Cirurgia Geral",
         "text": "Homem, 19 anos, foi vítima de queda de bicicleta em alta velocidade. Na admissão no serviço de Emergência, encontrava-se consciente, com PA de 120x70 mmHg e FC de 105 bpm; abdome doloroso à palpação em hipocôndrio e flanco esquerdo. Após a passagem de sonda vesical, foi evidenciada hematúria. Exames laboratoriais com uma hora após trauma: Hb 9,6 g/dL; Ht 28%; Ureia = 54 mg/dL; Creatinina 1,1 mg/dL; pH 7,37; BE  1; Lactato  10 mg/dL. A tomografia de abdome é apresentada. Q u a l  é  o  t r a t a m e n t o  p a r a  a  l e s ã o  a b d o m i n a l  n e s t e momento?",
+        "images": ["/medsimulados/images/usp2023/page_8_img_1.png", "/medsimulados/images/usp2023/page_8_img_2.png", "/medsimulados/images/usp2023/page_8_img_3.png", "/medsimulados/images/usp2023/page_8_img_4.png"],
         "options": [
             {
                 "id": "a",
@@ -453,6 +471,7 @@ export const usp2023Questions = [
         "id": 19,
         "area": "Cirurgia Geral",
         "text": "Homem, 75 anos, foi trazido ao Serviço de Emergência pelos familiares após encontrá-lo caído ao lado de sua cama. Tem hipertensão arterial sistêmica e obesidade. Lúcido, o paciente refere que caiu sobre o quadril direito após tropeçar no tapete ao lado da cama; desde então não consegue deambular. Nega trauma encefálico. Previamente deambulador social, conseguia realizar apenas atividades básicas diárias sozinho. Atendimento inicial já realizado e solicitada a radiografia abaixo. Qual é o achado clínico compatível com a história e com o achado radiológico apresentados?",
+        "images": ["/medsimulados/images/usp2023/page_9_img_1.png", "/medsimulados/images/usp2023/page_9_img_2.png", "/medsimulados/images/usp2023/page_9_img_3.png", "/medsimulados/images/usp2023/page_9_img_4.png"],
         "options": [
             {
                 "id": "a",
@@ -478,6 +497,7 @@ export const usp2023Questions = [
         "id": 20,
         "area": "Cirurgia Geral",
         "text": "Homem, 17 anos, refere contusão do joelho há 1 mês, durante prática esportiva. Relata que, desde então, a dor no joelho persiste, sem melhoras com aplicação de gelo e com uso de anti-inflamatórios. A radiografia é apresentada. Considerando a hipótese diagnóstica, assinale a alternativa correta.",
+        "images": ["/medsimulados/images/usp2023/page_9_img_1.png", "/medsimulados/images/usp2023/page_9_img_2.png", "/medsimulados/images/usp2023/page_9_img_3.png", "/medsimulados/images/usp2023/page_9_img_4.png"],
         "options": [
             {
                 "id": "a",
@@ -503,6 +523,7 @@ export const usp2023Questions = [
         "id": 21,
         "area": "Ginecologia e Obstetrícia",
         "text": "Paciente, 27 anos, refere nodulação palpável em mama direita que se acentuou no período pré-menstrual. Nega antecedentes clínicos, refere um parto vaginal há 5 anos, em uso de preservativo como contracepção; última menstruação há 10 dias. Nega uso de outros medicamentos e antecedentes familiares significativos. Ao exame clínico das mamas, identifica-se nodulação com cerca de 3 cm , regular , dolo rosa e móvel em qua drante súpero-externo de mama direita, recoberta com pele de aspecto normal. A ultrassonografia da região acometida é apresentada. Realiza-se punção aspirativa com saída de 10 mL de líquido (imagem abaixo) seroso acastanhado, com melhora significativa da dor. Não mais se percebe o achado palpatório e ultrassonográfico. Qual é a conduta mais adequada?",
+        "images": ["/medsimulados/images/usp2023/page_9_img_1.png", "/medsimulados/images/usp2023/page_9_img_2.png", "/medsimulados/images/usp2023/page_9_img_3.png", "/medsimulados/images/usp2023/page_9_img_4.png"],
         "options": [
             {
                 "id": "a",
@@ -528,6 +549,7 @@ export const usp2023Questions = [
         "id": 22,
         "area": "Ginecologia e Obstetrícia",
         "text": "Paciente, 45 anos, será submetida à histerectomia total abdominal em decorrência de miomatose uterina. Você é o instrumentador e o cirurgião solicita porta-agulhas montado com o fio para a sutura da cúpula vaginal. Qual é o tipo de fio adequado para este tempo cirúrgico?",
+        "images": ["/medsimulados/images/usp2023/page_10_img_1.png", "/medsimulados/images/usp2023/page_10_img_2.png"],
         "options": [
             {
                 "id": "a",
@@ -553,6 +575,7 @@ export const usp2023Questions = [
         "id": 23,
         "area": "Ginecologia e Obstetrícia",
         "text": "Paciente, 18 anos, em investigação para amenorreia secundária. Ao exame clínico apresenta mamas Tanner 3, pilificação mínima axilar e pubi ana, estatura percentil 60 e peso percentil 40, identifica- se discreta hérnia inguinal bilateral. Exame ginecológico: vulva com pouca pilificação, desenvolvida e adequada, hímen íntegro e perfurado, restringindo exame especular e toque vaginal. O exame ultrassonográfico abdominal é normal, corpo uterino não identificado, gônadas de volume habitual em topografia de paredes pélvicas. Considerando a principal hip ótese diagnóstica, qual é o achado associado?",
+        "images": ["/medsimulados/images/usp2023/page_10_img_1.png", "/medsimulados/images/usp2023/page_10_img_2.png"],
         "options": [
             {
                 "id": "a",
@@ -578,6 +601,7 @@ export const usp2023Questions = [
         "id": 24,
         "area": "Ginecologia e Obstetrícia",
         "text": "Paciente, 20 anos, refere aumento de pelos faciais e acne. Nuligesta, uso de preservativ o, ciclos menstruais com i n t e r v a l o s  d e  4 0  d i a s ,  p o r  6  d i a s  e  p o u c a  q u a n t i d a d e .  O exame clínico geral é normal, com achado de pilificação aumentada em face. Exame ginecológico: genitais externos, clitóris, pilificação , grandes e pequenos lábios n o r m a i s ;  t o q u e  v a gi n a l  co m  ú t e r o  d e  v o l u m e  h a b i t u a l  e regiões anexiais normais. Qual é o achado laboratorial associado à condição clínica?",
+        "images": ["/medsimulados/images/usp2023/page_10_img_1.png", "/medsimulados/images/usp2023/page_10_img_2.png"],
         "options": [
             {
                 "id": "a",
@@ -603,6 +627,7 @@ export const usp2023Questions = [
         "id": 25,
         "area": "Ginecologia e Obstetrícia",
         "text": "Paciente, 30 anos, nuligesta, ciclos menstruais com intervalos de 40 dias e duração de 5 dias, em investigação para infertilidade. Realiza biópsia de endométrio com diagnóstico de adenocarcinoma endometrióide, bem diferenciado, grau 1 histológico. A Ressonância Magnética demonstra abdome e pelve normais, útero e anexos normais, limite bem definido entre endométrio e miométrio, sugerindo neoplasia limitada ao endométrio. A paciente deseja preservar a fertilidade. Qual é o tratamento que pode ser considerado para esta paciente?",
+        "images": ["/medsimulados/images/usp2023/page_10_img_1.png", "/medsimulados/images/usp2023/page_10_img_2.png"],
         "options": [
             {
                 "id": "a",
@@ -628,6 +653,7 @@ export const usp2023Questions = [
         "id": 26,
         "area": "Ginecologia e Obstetrícia",
         "text": "Paciente, 60 anos, antecedente de dois partos vaginais e menopausa aos 50 anos sem terapia hormonal. Nega procedimentos cirúrgicos prévios. Queixa-se de o b s t i p a ç ã o  e  d e  d i f i c u l d a d e  p a r a  e x o n e r a ç ã o  f e c a l . Frequentemente introduz o dedo na vagina para auxiliar na evacuação. Nega perda urinária. Exame ginecológico: pilificação compatível com a idade; rotura perineal de primeiro grau; procidência de parede vaginal anterior e posterior às manobras de esforço; especular com conteúdo vaginal habitual; colo uterino epitelizado. Qual é o tratamento mais adequado?",
+        "images": ["/medsimulados/images/usp2023/page_10_img_1.png", "/medsimulados/images/usp2023/page_10_img_2.png"],
         "options": [
             {
                 "id": "a",
@@ -778,6 +804,7 @@ export const usp2023Questions = [
         "id": 32,
         "area": "Ginecologia e Obstetrícia",
         "text": "Paciente, 35 anos, encaminhada para aconselhamento pré-concepcional por ser portadora de prótese metálica em posição mitral, operada há 9 anos. A t u a l m e n t e  u s a  s o m e n t e  V a r f a r i n a  s ó d i c a  5  m g  a o  d i a . Paciente deseja engravidar e quer saber como irá ficar a anticoagulação durante a gestação. Qual é a orientação quanto ao uso de anticoagulante?",
+        "images": ["/medsimulados/images/usp2023/page_12_img_1.png", "/medsimulados/images/usp2023/page_12_img_2.png"],
         "options": [
             {
                 "id": "a",
@@ -803,6 +830,7 @@ export const usp2023Questions = [
         "id": 33,
         "area": "Ginecologia e Obstetrícia",
         "text": "Gestante de 28 anos, 2G:1PN: 0A, encontra-se internada na enfermaria de alto risco por gestação gemelar dicoriônica-diamniótica e perda de líquido amniótico há 4 dias. Hoje, 33 semanas e 4 dias de gestação, o primeiro gemelar está em apresentação pélvica e pesa 1.405 g, o segundo gemelar está em apresentação cefálica e pesa 1.712 g. A paciente queixa-se de dor em baixo ventre. Ao exame clínico PA 110x74 mmHg, FC 82 bpm, BCF de ambos presentes e rítmicos, dinâmica uterina de 2 contrações fracas em 10 minutos. Ao toque colo fino, pérvio para 3 cm. Qual é a conduta obstétrica?",
+        "images": ["/medsimulados/images/usp2023/page_12_img_1.png", "/medsimulados/images/usp2023/page_12_img_2.png"],
         "options": [
             {
                 "id": "a",
@@ -828,6 +856,7 @@ export const usp2023Questions = [
         "id": 34,
         "area": "Ginecologia e Obstetrícia",
         "text": "P a c i e n t e  d e  4 1  a n o s  r e t o r n a  e m  c o n s u l t a  d e  p r é - n a t a l trazendo o exame realizado com 12 semanas de gestação: translucência nucal: 2,5 mm e imagens apresentadas. Quando comparado à população dessa mesma idade, qual é o significado desse resultado?",
+        "images": ["/medsimulados/images/usp2023/page_12_img_1.png", "/medsimulados/images/usp2023/page_12_img_2.png"],
         "options": [
             {
                 "id": "a",
@@ -853,6 +882,7 @@ export const usp2023Questions = [
         "id": 35,
         "area": "Ginecologia e Obstetrícia",
         "text": "P a c i e n t e ,  3 4  a n o s ,  c h e g a  a o  P r o n t o - S o c o r r o  d e Obstetrícia, referindo estar gestante de 7 semanas e com sangramento vaginal.  Antecedente de 3 gestações com 1 parto vaginal e 1 aborto. Exame clínico: bom estado geral, descorada +/4, hidratada, pressão arterial de 120x74 mmHg, FC 72 bpm. Exame especular com sangramento moderado e presença do achado apresentado em canal vaginal. A paciente foi então encaminhada para exame de ultrassonografia transvaginal, cuja imagem é apresentada. Endométrio: 23 mm. Qual é a conduta mais adequada?",
+        "images": ["/medsimulados/images/usp2023/page_12_img_1.png", "/medsimulados/images/usp2023/page_12_img_2.png"],
         "options": [
             {
                 "id": "a",
@@ -878,6 +908,7 @@ export const usp2023Questions = [
         "id": 36,
         "area": "Ginecologia e Obstetrícia",
         "text": "Paciente de 24 semanas de gestação, em consulta de pré- natal refere problema na gengiva com presença de uma bola vermelha e dolorida. Relata frequente sangramento gengival ao escovar os dentes. Ao exame clínico, observa- se a seguinte imagem: Qual é a melhor conduta?",
+        "images": ["/medsimulados/images/usp2023/page_13_img_1.png", "/medsimulados/images/usp2023/page_13_img_2.png", "/medsimulados/images/usp2023/page_13_img_3.png", "/medsimulados/images/usp2023/page_13_img_4.png"],
         "options": [
             {
                 "id": "a",
@@ -903,6 +934,7 @@ export const usp2023Questions = [
         "id": 37,
         "area": "Ginecologia e Obstetrícia",
         "text": "Qual é a conclusão desta cardiotocografia?",
+        "images": ["/medsimulados/images/usp2023/page_13_img_1.png", "/medsimulados/images/usp2023/page_13_img_2.png", "/medsimulados/images/usp2023/page_13_img_3.png", "/medsimulados/images/usp2023/page_13_img_4.png"],
         "options": [
             {
                 "id": "a",
@@ -928,6 +960,7 @@ export const usp2023Questions = [
         "id": 38,
         "area": "Ginecologia e Obstetrícia",
         "text": "Com relação ao caso apresentado acima, qual é a conduta clínica nesse momento?",
+        "images": ["/medsimulados/images/usp2023/page_13_img_1.png", "/medsimulados/images/usp2023/page_13_img_2.png", "/medsimulados/images/usp2023/page_13_img_3.png", "/medsimulados/images/usp2023/page_13_img_4.png"],
         "options": [
             {
                 "id": "a",
@@ -953,6 +986,7 @@ export const usp2023Questions = [
         "id": 39,
         "area": "Ginecologia e Obstetrícia",
         "text": "Gestante de 29 anos, 4G:3PN:0A, chega ao Pronto- Socorro Obstétrico trazida pelo SAMU em franco trabalho de parto. Não trouxe a carteira de pré-natal, refere data da última menstruação de 18/02/2022. Ao exame clínico, PA 123x82 mmHg, FC 84 bpm, altura uterina de 35 cm, batimento cardíaco fetal presente e rítmico. Ao toque vaginal, dilatação total, apresentação cefálica e alta, sendo percebida a variedade de posição representada na figura. Q u a l  é  a  r e f e r ê n c i a  p e r c e b i d a  a o  t o q u e  q u e  s i n a l i z a dificuldade do parto vaginal?",
+        "images": ["/medsimulados/images/usp2023/page_14_img_1.png", "/medsimulados/images/usp2023/page_14_img_2.png"],
         "options": [
             {
                 "id": "a",
@@ -978,6 +1012,7 @@ export const usp2023Questions = [
         "id": 40,
         "area": "Ginecologia e Obstetrícia",
         "text": "Volpe (2011) publicou estudo da correlação das “taxas de cesariana” com as “taxas de mortalidade materna e infantil” através da avaliação de dados oficiais de 193 países. Com base nesse estudo, o gráfico abaixo apresenta a correlação entre a taxa de mortalidade materna  e  a taxa de cesárea de cada um desses países. Volpe FM. Correlation of Cesarean rates to maternal and infant mortality rates: anecologic study of oficial international data. Rev Panam Salud Publica. 2011 May; 29(5):303-8. De acordo com o gráfico, qual é a conclusão sobre a relação entre a taxa de mortalidade materna e a taxa de cesárea?",
+        "images": ["/medsimulados/images/usp2023/page_14_img_1.png", "/medsimulados/images/usp2023/page_14_img_2.png"],
         "options": [
             {
                 "id": "a",
@@ -1003,6 +1038,7 @@ export const usp2023Questions = [
         "id": 41,
         "area": "Clínica Médica",
         "text": "Homem, 38 anos, tem roncos e sonolência diurna há 2 anos. Refere obstrução nasal e sua esposa diz que, durante a noite, o paciente apresenta episódios em que “para de respirar” e parece que parece estar “engasgado”. Sem antecedentes mórbidos relevantes. O exame clínico é normal, com exceção de IMC = 34 kg/m². Considerando a principal hip ótese diagnóstica, qual a terapia clínica de escolha para o caso?",
+        "images": ["/medsimulados/images/usp2023/page_14_img_1.png", "/medsimulados/images/usp2023/page_14_img_2.png"],
         "options": [
             {
                 "id": "a",
@@ -1028,6 +1064,7 @@ export const usp2023Questions = [
         "id": 42,
         "area": "Clínica Médica",
         "text": "Mulher, 63 anos, está em acompanhamento ambulatorial por adenocarcinoma de pâncreas com metástases hepáticas e ósseas. Há 6 meses, iniciou segunda linha de q u i m i o t e r a p i a  n ã o  c u r a t i v a .  A  d e s p e i t o  d o  t r a t a m e n t o , sua doença teve rápida progressão durante esse período. Adicionalmente, sua funcio nalidade teve uma mudança importante: era totalmente ativa (ECOG 0) e agora, embora consiga manter o autocuidado e a deambulação, está incapaz de realizar suas atividades laborais (ECOG 2). No atual retorno, a paciente questiona sobre as possibilidades de tratamento e a sua inclusão em um estudo clínico para novos medicamentos. Quais ações devem ser adotadas no caso?",
+        "images": ["/medsimulados/images/usp2023/page_14_img_1.png", "/medsimulados/images/usp2023/page_14_img_2.png"],
         "options": [
             {
                 "id": "a",
@@ -1053,6 +1090,7 @@ export const usp2023Questions = [
         "id": 43,
         "area": "Clínica Médica",
         "text": "Qual foto indica situação médica com necessidade de avaliação oftalmológica de urgência?",
+        "images": ["/medsimulados/images/usp2023/page_15_img_1.png", "/medsimulados/images/usp2023/page_15_img_2.png", "/medsimulados/images/usp2023/page_15_img_3.png", "/medsimulados/images/usp2023/page_15_img_4.png", "/medsimulados/images/usp2023/page_15_img_5.png", "/medsimulados/images/usp2023/page_15_img_6.png", "/medsimulados/images/usp2023/page_15_img_7.png", "/medsimulados/images/usp2023/page_15_img_8.png"],
         "options": [
             {
                 "id": "a",
@@ -1078,6 +1116,7 @@ export const usp2023Questions = [
         "id": 44,
         "area": "Clínica Médica",
         "text": "Homem, 44 anos, há 9 anos apresenta lesões na pele. No exame clínico, observa-se infiltração difusa da face e orelhas, além de madarose. Há várias pápulas e nódulos infiltrados, de cor eritêmato-acastanhados (imagem). O exame histopatológico de lesão cutânea evidenciou presença de macrófagos espumosos ao redor de filete nervoso. Quais os achados clínico-labo ratoriais encontrados na principal hipótese diagnóstica para o caso?",
+        "images": ["/medsimulados/images/usp2023/page_15_img_1.png", "/medsimulados/images/usp2023/page_15_img_2.png", "/medsimulados/images/usp2023/page_15_img_3.png", "/medsimulados/images/usp2023/page_15_img_4.png", "/medsimulados/images/usp2023/page_15_img_5.png", "/medsimulados/images/usp2023/page_15_img_6.png", "/medsimulados/images/usp2023/page_15_img_7.png", "/medsimulados/images/usp2023/page_15_img_8.png"],
         "options": [
             {
                 "id": "a",
@@ -1103,6 +1142,7 @@ export const usp2023Questions = [
         "id": 45,
         "area": "Clínica Médica",
         "text": "Mulher, 59 anos, apresenta há 4 anos lesões em membros inferiores (imagem). No exame clínico, são observadas varizes de grosso calibre. Há eritema, edema, exsudação e crostas nos terços inferiores de pernas. Também são encontradas hipercromia e induração nos 2/3 inferiores das pernas, bilateralmente. Quais são as principais hipóteses diagnósticas?",
+        "images": ["/medsimulados/images/usp2023/page_15_img_1.png", "/medsimulados/images/usp2023/page_15_img_2.png", "/medsimulados/images/usp2023/page_15_img_3.png", "/medsimulados/images/usp2023/page_15_img_4.png", "/medsimulados/images/usp2023/page_15_img_5.png", "/medsimulados/images/usp2023/page_15_img_6.png", "/medsimulados/images/usp2023/page_15_img_7.png", "/medsimulados/images/usp2023/page_15_img_8.png"],
         "options": [
             {
                 "id": "a",
@@ -1128,6 +1168,7 @@ export const usp2023Questions = [
         "id": 46,
         "area": "Clínica Médica",
         "text": "Mulher, 65 anos, chega ao departamento de emergência com queixa de dor em hemitórax esquerdo, com início súbito há 8 horas e piora progressiva. A dor não estava relacionada ao esforço, não tinha irradiação e estava associada à dispneia. A paciente é obesa e trata hipertensão arterial sistêmica com amilodipina. Exame clínico: FC 110 bpm; FR 32 irpm; PA 125x86 mmHg; Sat O2 92% em ar ambiente; T 35,9° C. A u s c u l t a  r e s p i r a t ó r i a  e  c a r d i o v a s c u l a r  c o m  M V +  s / R A . BRNF 2T sem sopros. Boa perfusão periférica, pulsos cheios e simétricos nos quatro membros. MID com edema 1+/4+, MIE com edema 3+/4+, com uma diferença de 3,8 cm no diâmetro das duas panturrilhas. Considerando a hipótese diagnóstica, qual é o principal fator de risco para o evento?",
+        "images": ["/medsimulados/images/usp2023/page_15_img_1.png", "/medsimulados/images/usp2023/page_15_img_2.png", "/medsimulados/images/usp2023/page_15_img_3.png", "/medsimulados/images/usp2023/page_15_img_4.png", "/medsimulados/images/usp2023/page_15_img_5.png", "/medsimulados/images/usp2023/page_15_img_6.png", "/medsimulados/images/usp2023/page_15_img_7.png", "/medsimulados/images/usp2023/page_15_img_8.png"],
         "options": [
             {
                 "id": "a",
@@ -1153,6 +1194,7 @@ export const usp2023Questions = [
         "id": 47,
         "area": "Clínica Médica",
         "text": "Homem, 62 anos, procura o serviço de emergência com quadro de dispneia e dor torácica, que se iniciaram há 2 meses e vêm evoluindo com piora progressiva. Ao exame clínico, o paciente apresentava diminuição do murmúrio vesicular bilateralmente e estase jugular a 45°. Exame radiológico apresentado. A punção pleural demonstrou líquido exsudativo com predomínio de outras células, provavelmente células neoplásicas. Durante atendimento, o paciente apresentou piora da dispneia e PA 80x40 mmHg. A ultrassonografia cardíaca à beira do leito apresentada. Qual é a conduta imediata?",
+        "images": ["/medsimulados/images/usp2023/page_16_img_1.png", "/medsimulados/images/usp2023/page_16_img_2.png"],
         "options": [
             {
                 "id": "a",
@@ -1178,6 +1220,7 @@ export const usp2023Questions = [
         "id": 48,
         "area": "Clínica Médica",
         "text": "Mulher, 83 anos, é trazida ao pronto-socorro com queixa de sonolência excessiva há três dias. Apresenta antecedente de hipertensão arterial, dislipidemia e síndrome demencial, com dependência parcial para atividades básicas, e total para atividades instrumentais de vida diária. Sua filha conta que, ao longo d o  ú l t i m o  m ê s ,  s u a  m ã e  s e  t o r n o u  m a i s  a p á t i c a , apresentou edema progressivo de membros inferiores e, há 1 semana, está confusa, estando há 3 dias bastante sonolenta, com piora no dia de hoje. Ao exame clínico, nota-se que a paciente tem pontuação zero na Richmond Agitation Sedation Scale  ( R A S S ) ,  e s t á d e s a t e n t a  e ,  e m  a l g u n s  m o m e n t o s ,  a p r e s e n t a pensamento desorganizado. Além disso, tem edema de m e m b r o s  i n f e r i o r e s  3 + / 4 +  e  a p r e s e n t a  e s t e r t o r e s  f i n o s em base direita. Considerando as hipóteses clínicas e a linha de cuidado, qual é a alternativa melhor associada ao caso clínico?",
+        "images": ["/medsimulados/images/usp2023/page_16_img_1.png", "/medsimulados/images/usp2023/page_16_img_2.png"],
         "options": [
             {
                 "id": "a",
@@ -1203,6 +1246,7 @@ export const usp2023Questions = [
         "id": 49,
         "area": "Clínica Médica",
         "text": "Homem, 55 anos, é trazido ao pronto-socorro após ingerir grande quantidade de uma substância que causou quadro de sudorese profusa, bradicardia, miose, hipotensão e broncorreia. Q u a l  é  a  s u b s t â n c i a  q u e  a p r e s e n t a r i a  e f e i t o  s i m i l a r quando ingerida em grande quantidade?",
+        "images": ["/medsimulados/images/usp2023/page_16_img_1.png", "/medsimulados/images/usp2023/page_16_img_2.png"],
         "options": [
             {
                 "id": "a",
@@ -1228,6 +1272,7 @@ export const usp2023Questions = [
         "id": 50,
         "area": "Clínica Médica",
         "text": "Homem, 78 anos, procura a unidade básica de saúde com queixa de palpitações há 4 meses. Nega dispneia, dor torácica ou síncope. Descobriu ser hipertenso há 5 anos, quando teve um qua dro de acidente vascular cerebral isquêmico, que não resultou em sequelas no longo prazo. Está em uso de hidroclorotiazida e losartana em doses máximas, associado à aspirina 200 mg/dia. Nega outros antecedentes mórbidos relevantes. Ao exame clínico, pressão arterial 128x82 mmHg. ECG é apresentado. Qual é o plano de cuidado deste paciente?",
+        "images": ["/medsimulados/images/usp2023/page_17_img_1.png", "/medsimulados/images/usp2023/page_17_img_2.png"],
         "options": [
             {
                 "id": "a",
@@ -1253,6 +1298,7 @@ export const usp2023Questions = [
         "id": 51,
         "area": "Clínica Médica",
         "text": "Homem, 50 anos, hipertenso, em uso de propranolol 120 mg/dia, procura a unidade de pronto atendimento por palpitação há uma semana. O exame clínico é normal, com frequência cardíaca de 56 bpm. O ECG realizado na unidade de saúde está mostrado a seguir. Qual o ritmo cardíaco mostrado no eletrocardiograma?",
+        "images": ["/medsimulados/images/usp2023/page_17_img_1.png", "/medsimulados/images/usp2023/page_17_img_2.png"],
         "options": [
             {
                 "id": "a",
@@ -1278,6 +1324,7 @@ export const usp2023Questions = [
         "id": 52,
         "area": "Clínica Médica",
         "text": "Homem de 33 anos procurou a unidade básica de saúde pois aferiu pressão arterial em rastreamento oportunístico que resultou em 156x98 mmHg. Nega sintomas ou antecedentes mórbidos relevantes. O diagnóstico de hipertensão foi confirmado após duas consultas agendadas no prazo de 15 dias, sendo 156x96 mmHg a média das medidas de pressão arterial. Desde então, mostrou-se motivado a iniciar prática de atividade física (150 minutos/semana) e redução do sal alimentar. Prefere não usar medicamentos. Ao discutir o plano de cuidados, além das metas para um estilo de vida saudável, foram combinados encontros mensais pelos próximos três meses para acompanhamento. No primeiro desses encontros, o paciente relatou ter cumprido as metas estabelecidas. Apresentou frequência cardíaca 84 bpm, pressão arterial 1 5 4 x 9 4  m m H g ,  í n d i c e  d e  m a s s a  c o r p ó r e a  2 6  k g / m 2 e restante do exame clínico normal (incluindo fundoscopia). Resultados dos exames solicitados: Creatinina: 0,9 mg/dL; Na+ 1 4 2  m E q / L ;  K+ 2,9 mEq/L; HDL 50 mg/dL; LDL 124 mg/dL; Triglicérides 110  mg/dL; Glicemia de jejum 92 mg/dL; eletrocardiograma e urina tipo I normais. No segundo encontro, permaneceu aderente às metas de estilo de vida e perdeu 2 kg. Frequência cardíaca 80 bpm, pressão arterial 150 x 92 mmHg, índice de massa corpórea 25,3 kg/m 2 e  r e s t a n t e  d o  e x a m e  c l í n i c o  n o r m a l .  O  n o v o exame de potássio sérico confirmou o valor de 2,9 mEq/L. Além da reposição de potássio, qual alternativa representa a conduta clínica a ser adotada até o próximo encontro?",
+        "images": ["/medsimulados/images/usp2023/page_18_img_1.png"],
         "options": [
             {
                 "id": "a",
@@ -1303,6 +1350,7 @@ export const usp2023Questions = [
         "id": 53,
         "area": "Clínica Médica",
         "text": "Mulher de 40 anos procurou  ambulatório de clínica médica por apresentar fraqueza há 2 meses. Nega antecedentes mórbidos relevantes e não está usando medicamentos. O exame clínico é normal, com exceção de descoramento de mucosas 2+/4+. A investig ação laboratorial inicial identificou hemoglobina de 10,1 g/dL. Q u a l  d a s  a l t e r n a t i v a s  a b a i x o  a p r e s e n t a  a  c o m b i n a ç ã o adequada entre achado clínic o e diagnóstico etiológico para o caso?",
+        "images": ["/medsimulados/images/usp2023/page_18_img_1.png"],
         "options": [
             {
                 "id": "a",
@@ -1328,6 +1376,7 @@ export const usp2023Questions = [
         "id": 54,
         "area": "Clínica Médica",
         "text": "H o m e m  d e  7 5  a n o s  é  a c o m p a n h a d o  n o  a m b u l a t ó r i o  d e clínica médica por insuficiência cardíaca e hipertensão. Está em uso regular de enalapril e carvedilol em doses máximas, até 4 meses atrás, estava clinicamente estável. Desde então, a dispneia passou dos grandes aos médios esforços, com aparecimento de edema de membros inferiores ao final do dia. Nega febre, alteração do peso ou do padrão de sono. Há quatro dias apresenta palpitação e piora da dispneia, que p a s s o u  a  o c o r r e r  n o  r e p o u s o .  N o  e x a m e  c l í n i c o ,  t e m frequência cardíaca de 90 bpm (arrítmico), pressão arterial 122x76 mmHg, bulhas arrítmicas e estertores finos em bases pulmonares. O restante do exame clínico é normal. Qual dos exames complementares abaixo deve ser realizado neste momento?",
+        "images": ["/medsimulados/images/usp2023/page_18_img_1.png"],
         "options": [
             {
                 "id": "a",
@@ -1353,6 +1402,7 @@ export const usp2023Questions = [
         "id": 55,
         "area": "Clínica Médica",
         "text": "Homem de 50 anos, portador de melanoma metastático para pulmão, fígado e linfonodos, procura atendimento por quadro de 1 semana de dispneia progressiva e tosse; sem febre. Relata estar em uso de imunoterapia com anticorpo m o n o c l o n a l  a n t i - P D L - 1  h á  c e r c a  d e  3  m e s e s ,  t e n d o  f e i t o  a última aplicação há 2 semanas. Ao exame clínico, o paciente apresenta-se taquidispneico, com frequência cardíaca 117 bpm, pressão arterial 110x60 mmHg, frequência respiratória de 32 irpm, saturação de oxigênio em ar ambiente de 85%. Tomografia computadorizada de tórax apresentada. Além da oferta de oxigênio suplementar, qual é a conduta para o caso?",
+        "images": ["/medsimulados/images/usp2023/page_18_img_1.png"],
         "options": [
             {
                 "id": "a",
@@ -1378,6 +1428,7 @@ export const usp2023Questions = [
         "id": 56,
         "area": "Clínica Médica",
         "text": "Mulher de 62 anos trabalha cuidando da casa e de dois netos. Há 12 horas notou aumento de volume em região anterior de joelho direito, com dor e calor. Relata febre baixa não aferida. Nega dor em outras articulações ou dificuldade para deambular, mas relata dificuldade para fletir o joelho. Fez atividade doméstica mais intensa nos últimos dias. Nega uso de qualquer tipo de medicamentos ou comorbidades prévias relevantes. Foto do exame clínico articular apresentada. Qual a principal hipótese diagnóstica?",
+        "images": ["/medsimulados/images/usp2023/page_19_img_1.png"],
         "options": [
             {
                 "id": "a",
@@ -1403,6 +1454,7 @@ export const usp2023Questions = [
         "id": 57,
         "area": "Clínica Médica",
         "text": "Paciente de 34 anos, feminina, previamente hígida, deu entrada no pronto-socorro com quadro de cefaleia holocraniana associada a náuseas há quatro dias; febre aferida de 38°C e confusão mental com agitação psicomotora. Refere que, há uma hora, teve episódio de p e r d a  d e  c o n t a t o  c o m  o  m e i o ,  c o m  o l h a r  f i x o  e movimentos mastigatórios de cerca de 30 segundos de duração. Ao exame clínico: regular estado geral; corada e hidratada; sistemas cardiovascular e pulmonar sem alterações; sem lesões cutâneas; Glasgow 13 (Ao3/MRV4/MRM6); confusa e sonolenta; sem rigidez de nuca; sem papiledema. A ressonância magnética de crânio mostrou aumento de sinal em polo temporal e ínsula à direita. Qual dos exames de líquor abaixo seria compatível com o quadro da paciente?",
+        "images": ["/medsimulados/images/usp2023/page_19_img_1.png"],
         "options": [
             {
                 "id": "a",
@@ -1428,6 +1480,7 @@ export const usp2023Questions = [
         "id": 58,
         "area": "Clínica Médica",
         "text": "Paciente de 32 anos, sexo feminino, refere: há dez dias – formigamentos em pernas, que ascenderam, chegando ao nível do umbigo; há cinco dias – dificuldade para deambular por fraqueza em membros inferiores; há um dia – piora, com quedas. Associadamente, passou a ter dificuldade de urinar. No Pronto-Socorro foi constatado bexigoma, tendo sido nece ssária sondagem vesical de alívio. Ao exame clínico, obs erva-se paraparesia crural, com sinal de Babinski, reflexos exaltados em membros inferiores e presença de nível sensitivo denso na altura do umbigo. Qual o diagnóstico provável e qual exame complementar deve ser solicitado na emergência?",
+        "images": ["/medsimulados/images/usp2023/page_19_img_1.png"],
         "options": [
             {
                 "id": "a",
@@ -1453,6 +1506,7 @@ export const usp2023Questions = [
         "id": 59,
         "area": "Clínica Médica",
         "text": "Paciente masculino, 20 anos, estudante do 2º ano do curso de economia, é levado ao pronto-socorro psiquiátrico após uma mudança de comportamento nos últimos sete dias. De acordo com os familiares, começou a ficar progressivamente mais agitado, querendo fazer várias coisas ao mesmo tempo; houve aumento na velocidade d a  f a l a ,  p o r  v e z e s  e l a b o r a n d o  f r a s e s  s e m  n e x o ;  h o u v e diminuição do sono; e estava alimentando-se muito mal e em pouca quantidade. Relatam também que, há uns quatro meses, o paciente ficou muito triste com o falecimento da avó, pois eram muito próximos. Chorou muito e, por semanas, não queria sair do quarto, tendo emagrecido 6 kg. O paciente sempre teve boa saúde e é responsável, bom a l u n o  e  s o c i á v e l .  N ã o  t e m  h i s t ó r i a  p r é v i a  d e  t r a n s t o r n o mental. Antecedentes familiares: mãe , 44 anos, teve depressão depois do nascimento do último filho – que durou mais de um ano, mas “foi passando aos poucos, sem tratamento”; tio materno bebia bastante e cometeu suicídio aos 40 anos de idade. Qual a hipótese diagnóstica provável para o caso descrito acima?",
+        "images": ["/medsimulados/images/usp2023/page_19_img_1.png"],
         "options": [
             {
                 "id": "a",
@@ -1478,6 +1532,7 @@ export const usp2023Questions = [
         "id": 60,
         "area": "Clínica Médica",
         "text": "Mulher de 32 anos é trazida ao pronto-socorro por desconforto respiratório. Refere história de dois meses de queda assimétrica das pálpebr as e diplopia de caráter flutuante; há um mês com dificuldade de deglutição, voz anasalada e refluxo de líquidos pelo nariz. Associadamente, notou fraqueza muscular, com dificuldade para pentear os cabelos, elevar os braços, subir escadas e se levantar,  especialmente da posição sentada. Há dois dias, notou quadro febril, tosse e dispneia progressivas. No exame de entrada, observa-se pressão arterial 125x70 mmHg, frequência cardíaca 96 bpm rítmico, temperatura axilar 38,3°C, frequência respiratória de 18 irpm, saturação de O 2 94%. À ausculta pulmonar, observa–se crepitação em base de pulmão direito. A paciente apresenta ptose palpebral bilateral, dificuldade de abduzir o olho direito e de aduzir e elevar o olho esquerdo. As pupilas são isocóricas com 2 mm e fotorreagentes. A voz é anasalada e há déficit motor de predomínio proximal nos quatro membros. Os reflexos profundos estão presentes e a resposta cutâneo plantar é flexora bilateralmente. Não há alterações ao exame de sensibilidade e coordenação. A gasometria arterial mostra: pH 7,28; pO 2 68 mmHg; pCO2 55 mmHg. Radiografia de tórax com provável broncopneumonia aspirativa. Qual a principal hipótese diagnóstica?",
+        "images": ["/medsimulados/images/usp2023/page_20_img_1.png"],
         "options": [
             {
                 "id": "a",
@@ -1503,6 +1558,7 @@ export const usp2023Questions = [
         "id": 61,
         "area": "Pediatria",
         "text": "Analise os dados da figura a seguir. Cascata de cuidado contínuo do HIV para adultos com HIV vinculados, por faixa etária. Brasil, 2020. (Pessoas vinculadas por 1000) Carga Viral suprimida : pessoas que tiveram uma dispensa de ARV nos últimos 100 dias do ano e que ti veram resultado do exame de CV,  após pelo menos 6 meses do início do tratamento, com valor inferior a 50 cópias/ml registrado no sistema nacional de informação de exame s laboratoriais (SISCEL). Em TARV: pessoas com pelos menos uma dispensa de TARV registrada no sistema nacional de informação de medicamentos antirretrovir ais (SICLOM), nos últimos 100 dias do ano. Retidos: pessoas vinculadas, que tiver am pelo menos dois exames de carga viral ou CD4 ou duas dispensas de antirretroviral no ano. Vinculados:  p e s s o a s  q u e  t i v e r a m  n o  a n o  a l g u m  e x a m e  d e  C D 4  o u  d e Carga Viral registrados ao SISCEL ou tiveram dispensa de TARV registrada no SICLOM. Fonte: Relatório de Monitoramento Clínico do HIV 2021 . Brasília-DF, 2021: www.aids.gov.br Qual é a afirmação correta?",
+        "images": ["/medsimulados/images/usp2023/page_20_img_1.png"],
         "options": [
             {
                 "id": "a",
@@ -1803,6 +1859,7 @@ export const usp2023Questions = [
         "id": 73,
         "area": "Pediatria",
         "text": "O gráfico a seguir apresenta a tendência de diagnósticos e a de mortalidade por câncer de tireoide. Fonte: WELCH, H. G; KRAMER, G. S.; BLACK, W. C., 2019. Qual o conceito e sua respectiva definição que explicam a relação entre as curvas de mortalidade e a do diagnóstico do câncer de tireoide apresentadas no gráfico?",
+        "images": ["/medsimulados/images/usp2023/page_23_img_1.png"],
         "options": [
             {
                 "id": "a",
@@ -1828,6 +1885,7 @@ export const usp2023Questions = [
         "id": 74,
         "area": "Pediatria",
         "text": "Homem, 35 anos, previamente hígido. Iniciou com queixa de episódios de palpitações, associadas à sensação de falta de ar, perda de apetite e desconforto no peito. Nega tristeza, desânimo, fadiga, i rritabilidade ou nervosismo. Não associa o quadro a nenhum evento recente em sua vida. Diz estar tranquilo, menos estressado, agora que saiu do emprego. Tem preocupação de ser algum problema no coração, pois seu tio morreu de infarto aos 75 anos. Recentemente passou em consulta médica, tendo recebido a orientação de que não era nada grave. Fez eletrocardiograma, holter e dosagem de TSH. Todos os resultados foram normais, mas Carlos continua com a queixa. A esposa diz que ele costuma apresentar esses sintomas quando se senta para fazer as contas da família ou quando recebe alguma conta para pagar. Ele não tem história pessoal nem familiar de transtorno mental. Assinale a alternativa que apresenta o registro adequado p a r a  o  i t e m  d e  a v a l i a ç ã o  d o  S O A P  d e s t a  c o n s u l t a  –  d e acordo com o Registro Orientado por Problemas –, assim como uma intervenção no atendimento.",
+        "images": ["/medsimulados/images/usp2023/page_23_img_1.png"],
         "options": [
             {
                 "id": "a",
@@ -1853,6 +1911,7 @@ export const usp2023Questions = [
         "id": 75,
         "area": "Pediatria",
         "text": "Qual o tipo de prevenção realizada e o nível de atenção à saúde nos cenários a seguir: I. Criança com transtorno global do desenvolvimento participando de grupo no Centro de Apoio Psicossocial Infanto Juvenil (CAPS-IJ), para integração comunitária. II. Pessoa que teve relação sexual sem preservativo recebendo Profilaxia Pós-Exposição (PEP) para HIV em uma Unidade de Pronto-Atendimento (UPA). III. Clínico geral, que acompanha o paciente em consultório particular, orientando que não há necessidade de solicitar exame de vitamina D para o check-up de rotina.",
+        "images": ["/medsimulados/images/usp2023/page_23_img_1.png"],
         "options": [
             {
                 "id": "a",
@@ -1878,6 +1937,7 @@ export const usp2023Questions = [
         "id": 76,
         "area": "Pediatria",
         "text": "De acordo com a Política Nacional de Promoção da Saúde, são exemplos de ações de promoção da saúde:",
+        "images": ["/medsimulados/images/usp2023/page_24_img_1.png", "/medsimulados/images/usp2023/page_24_img_2.png", "/medsimulados/images/usp2023/page_24_img_3.png"],
         "options": [
             {
                 "id": "a",
@@ -1903,6 +1963,7 @@ export const usp2023Questions = [
         "id": 77,
         "area": "Pediatria",
         "text": "O câncer de mama (CM) é um importante problema de saúde pública. A identificação e o melhor gerenciamento clínico das pacientes com alto  risco de apresentar câncer de mama é importante para reduzir a morbidade e a mortalidade causadas pela doença. A maioria dos fatores de risco genéticos para o CM foi identificada em mulheres de ascendência europeia e asiática; contudo, os dados genéticos sobre mulheres latinoamericanas são escassos. Um estudo examinou variantes genéticas em regiões de regulação gênica, incluindo locais de ligação do microRNA (miR), como potenciais fatores de risco para o CM em 2.045 mulheres latinoamerica nas. Os resultados obtidos são mostrados na tabela abaixo. Dentre as alternativas abaixo, qual representa uma das conclusões do estudo?",
+        "images": ["/medsimulados/images/usp2023/page_24_img_1.png", "/medsimulados/images/usp2023/page_24_img_2.png", "/medsimulados/images/usp2023/page_24_img_3.png"],
         "options": [
             {
                 "id": "a",
@@ -1928,6 +1989,7 @@ export const usp2023Questions = [
         "id": 78,
         "area": "Pediatria",
         "text": "No início da pandemia de COVID-19, na ausência de alternativas terapêuticas específicas, deu-se ênfase ao reposicionamento de fármacos já utilizados para outras indicações como possibilidades de tratamento. Uma dessas drogas foi a Ivermectina. No sentido de avaliar a eficácia dela na proteção contra o agravamento do quadro clínico, foi realizado um ensaio clínico, com 490 pacientes com quadros leves ou moderados de COVID-19, confirmados por PCR. Dentre eles, 249 receberam o tratamento de suporte padrão para COVID-19 (grupo controle) e 241 receberam o tratamento padrão mais 0,4 mg/kg/dia de Ivermectina, durante 5 dias (grupo experimental). Os resultados estão resumidos na tabela abaixo. De acordo com as informações, pode-se afirmar que:",
+        "images": ["/medsimulados/images/usp2023/page_24_img_1.png", "/medsimulados/images/usp2023/page_24_img_2.png", "/medsimulados/images/usp2023/page_24_img_3.png"],
         "options": [
             {
                 "id": "a",
@@ -1953,6 +2015,7 @@ export const usp2023Questions = [
         "id": 79,
         "area": "Pediatria",
         "text": "Um estudo de caso-controle foi realizado com adolescentes europeus maiores de 16 anos, com o objetivo de investigar a associação entre bullying e transtornos alimentares (TA). Foram estudados 495 casos de TA e 395 controles. A vitimização por bullying f o i investigada através das respostas ao Retrospective Bullying Questionnaire .  O s  s e g u i n t e s  t i p o s  d e  bullying foram investigados: bullying físico, bullying v e r b a l , bullying verbal relacionado ao corpo (provocações ou apelidos relacionados ao corpo, peso ou aparência) e bullying verbal não relacionado ao corpo. Alguns resultados podem ser vistos n a tabela sobre “Associação entre vitimização por bullying e transtorno alimentar em adolescentes noruegueses\". Considerando estes dados, indique a alternativa correta.",
+        "images": ["/medsimulados/images/usp2023/page_24_img_1.png", "/medsimulados/images/usp2023/page_24_img_2.png", "/medsimulados/images/usp2023/page_24_img_3.png"],
         "options": [
             {
                 "id": "a",
@@ -1978,6 +2041,7 @@ export const usp2023Questions = [
         "id": 80,
         "area": "Pediatria",
         "text": "Em 2020, o Instituto Nacional do Câncer (INCA) estimou 40.990 novos casos e 20.245 óbitos devido ao câncer colorretal no Brasil. Embora tenham ocorrido avanços na detecção precoce em vários municípios, há falhas, desde a atenção básica, no encaminhamento de pacientes para pesquisa de sangue oculto ou colonoscopia. Mesmo após rastreados os tumores de cólon e reto, muitos pacientes têm dificuldade de acessar a atenção especializada, inclusive quando há indicação de cirurgia, radioterapia ou quimioterapia. Neste caso, qual princípio do SUS está sendo ignorado?",
+        "images": ["/medsimulados/images/usp2023/page_25_img_1.png", "/medsimulados/images/usp2023/page_25_img_2.png", "/medsimulados/images/usp2023/page_25_img_3.png"],
         "options": [
             {
                 "id": "a",
@@ -2003,6 +2067,7 @@ export const usp2023Questions = [
         "id": 81,
         "area": "Medicina Preventiva",
         "text": "Paciente de 7 anos, sexo masculino, com antecedente de asma em uso de medicação contínua. Estava brincando no parquinho quando começou a sentir dor intensa no braço esquerdo. Após cerca de 30 minutos, começou a apresentar tosse, dor abdominal, vômitos e diarreia. Levado ao pronto atendimento, foi colocado sob fonte de oxigênio, sob monitorização e um acesso periférico foi obtido. Ao exame clínico, estava em regular estado geral, FC: 145 bpm, FR: 34 irpm, PA: 82x30 mmHg, Saturação 92% em ar ambiente, ausculta cardíaca sem alterações e ausculta pulmonar com sibilos difusos. Na exposição, foi notada a seguinte lesão: Além de oxigênio e expansão volêmica, qual a conduta a ser prontamente realizada?",
+        "images": ["/medsimulados/images/usp2023/page_25_img_1.png", "/medsimulados/images/usp2023/page_25_img_2.png", "/medsimulados/images/usp2023/page_25_img_3.png"],
         "options": [
             {
                 "id": "a",
@@ -2028,6 +2093,7 @@ export const usp2023Questions = [
         "id": 82,
         "area": "Medicina Preventiva",
         "text": "Paciente de 1 ano, sexo masculino, é trazido ao pronto atendimento após ter engolido uma moeda, há cerca de 3 0  m i n u t o s .  A o  e x a m e  c l í n i c o ,  p a c i e n t e  e m  b o m  e s t a d o g e r a l ,  s e m  s i n a i s  d e  d e s c o n f o r t o  r e s p i r a t ó r i o , apresentando dificuldade de engolir saliva e engasgos. Alimentou-se a última vez há 2 horas. Foi realizada radiografia de tórax com a imagem apresentada. Qual a conduta a ser realizada?",
+        "images": ["/medsimulados/images/usp2023/page_25_img_1.png", "/medsimulados/images/usp2023/page_25_img_2.png", "/medsimulados/images/usp2023/page_25_img_3.png"],
         "options": [
             {
                 "id": "a",
@@ -2053,6 +2119,7 @@ export const usp2023Questions = [
         "id": 83,
         "area": "Medicina Preventiva",
         "text": "Assinale a alternativa abaixo na qual está representada a escolha da máscara adequada, o posicionamento correto do coxim e o posicionamento correto da mão na máscara.",
+        "images": ["/medsimulados/images/usp2023/page_26_img_1.png", "/medsimulados/images/usp2023/page_26_img_2.png", "/medsimulados/images/usp2023/page_26_img_3.png", "/medsimulados/images/usp2023/page_26_img_4.png", "/medsimulados/images/usp2023/page_26_img_5.png", "/medsimulados/images/usp2023/page_26_img_6.png", "/medsimulados/images/usp2023/page_26_img_7.png", "/medsimulados/images/usp2023/page_26_img_8.png"],
         "options": [
             {
                 "id": "a",
@@ -2078,6 +2145,7 @@ export const usp2023Questions = [
         "id": 84,
         "area": "Medicina Preventiva",
         "text": "A p ó s  c e r c a  d e  5  m i n u t o s  d e  s u p orte ventilatório, o paciente apresentou recuperação da respiração e do tônus, não sendo necessária entubação orotraqueal. Ao exame de reavaliação, estava corado, hidratado, FC: 150 bpm, FR 36 irpm, PA 73x40 mmHg, pulsos presentes e simétricos, tempo de enchimento capilar de 2 seg undos, com abertura ocular espontânea. Restante do exame clínico sem alterações. Com relação à investigação do evento apresentado, podemos afirmar que:",
+        "images": ["/medsimulados/images/usp2023/page_27_img_1.png", "/medsimulados/images/usp2023/page_27_img_2.png", "/medsimulados/images/usp2023/page_27_img_3.png", "/medsimulados/images/usp2023/page_27_img_4.png", "/medsimulados/images/usp2023/page_27_img_5.png"],
         "options": [
             {
                 "id": "a",
@@ -2103,6 +2171,7 @@ export const usp2023Questions = [
         "id": 85,
         "area": "Medicina Preventiva",
         "text": "Paciente de 9 anos, sexo feminino, portadora de fibrose cística pancreato-insuficiente foi a dmitida no pronto-socorro queixando-se de tosse com a umento da expectoração de aspecto esverdeada, há uma semana; hoje, com pequena quantidade de sangue e sem febre associada. Em culturas prévias de escarro, apresenta colonização crônica para Pseudomonas aeruginosa, sensível aos antibióticos testáveis, e Staphylococus aureus r e s i s t e n t e  à  m e t i c i l i n a .  J á  f a z  u s o  d e oxigênio domiciliar, 1 L/minuto e nos últimos dias precisou aumentar para 2L/minuto. Ao exame clínico, paciente m a n t e n d o  e s t a d o  g e r a l  d e  b a s e ,  a l e r t a ,  h i d r a t a d a , taquidispneica moderada, com crepitações difusas à ausculta. Saturação 94% em oxigênio 2L/minuto. Estável hemodinamicamente. A radiografia de tórax atual (figura 1) e no momento da alta na internaçã o anterior (figura 2) estão apresentadas. Figura 1 Figura 2 A paciente foi internada para suporte clínico com coleta de nova cultura de escarro. Com relação ao uso de a n t i m i c r o b i a n o s ,  p o d e m o s  a f i r m a r  q u e  a  c o n d u t a adequada é:",
+        "images": ["/medsimulados/images/usp2023/page_27_img_1.png", "/medsimulados/images/usp2023/page_27_img_2.png", "/medsimulados/images/usp2023/page_27_img_3.png", "/medsimulados/images/usp2023/page_27_img_4.png", "/medsimulados/images/usp2023/page_27_img_5.png"],
         "options": [
             {
                 "id": "a",
@@ -2128,6 +2197,7 @@ export const usp2023Questions = [
         "id": 86,
         "area": "Medicina Preventiva",
         "text": "Paciente de 7 anos, previamente hígido, apresentando febre diária há 7 dias, prostração, dor abdominal, vômitos e dificuldade para respirar. Passou em atendimento médico há 3 dias e, após realização do exame de imagem, recebeu alta com prescrição de amoxicilina 50 mg/kg/dia por 7 dias. Segue com manutenção dos sintomas e queixa- s e  d e  d i m i n u i ç ã o  d a  d i u r e s e .  A o  e x a m e  c l í n i c o ,  R E G , pálido, mucosas secas, FC 165 bpm, FR 40 irpm, saturação 93% em ar ambiente, PA 100x50 mmHg, ausculta pulmonar diminuída em base esquerda com crepitações bilaterais, tiragem subdiafragmática e intercostal. Exames iniciais apresentados. Para definir as medidas de estabilização a serem instituídas para este paciente no momento, qual(is) exame(s) deve(m) ser acrescentado(s)?",
+        "images": ["/medsimulados/images/usp2023/page_27_img_1.png", "/medsimulados/images/usp2023/page_27_img_2.png", "/medsimulados/images/usp2023/page_27_img_3.png", "/medsimulados/images/usp2023/page_27_img_4.png", "/medsimulados/images/usp2023/page_27_img_5.png"],
         "options": [
             {
                 "id": "a",
@@ -2153,6 +2223,7 @@ export const usp2023Questions = [
         "id": 87,
         "area": "Medicina Preventiva",
         "text": "Paciente de 8 anos, sexo feminino, admitida no pronto- s o c o r r o  c o m  q u e i x a  d e  e d e m a  e m  f a c e  e  m e m b r o s inferiores e redução da diurese há cerca de uma semana. Ao exame clínico, regular estado geral, hidratada, corada. N o t a d o  e d e m a  e m  f a c e  e  m e m b r o s  i n f e r i o r e s , FC 108 bpm, FR 23 irpm, PA 138x94 mmHg, restante do exame sem alterações. Sorologias negativas para HIV e hepatites.Resultados dos exames iniciais apresentados. Podemos afirmar que a paciente tem indicação de: ( A )  b i ó p s i a  r e n a l  a p ó s  8  s e m a n a s ,  c a s o  n ã o  r e s p o n d a  a o corticoide.",
+        "images": ["/medsimulados/images/usp2023/page_28_img_1.png", "/medsimulados/images/usp2023/page_28_img_2.png"],
         "options": [
             {
                 "id": "a",
@@ -2178,6 +2249,7 @@ export const usp2023Questions = [
         "id": 88,
         "area": "Medicina Preventiva",
         "text": "Paciente de 10 meses, sexo masculino, portador de atresia de vias biliares com portoenterostomia prévia, porém sem melhora significativa da drenagem biliar, foi trazido ao departamento de emergência por ter apresentado três e p i s ó d i o s  d e  f e z e s  m u i t o  e s c u r a s  e  m a l c h e i r o s a s (Figura A). O responsável também notou que o lactente está mais irritado e com aumento do volume abdominal. Nega febre ou outros sintomas associados. A o  e x a m e  c l í n i c o ,  r e g u l a r  e s t a d o  g e r a l ,  d e s c o r a d o , ictérico. FC 130 bpm, FAR 48 irpm, PA 82x56 mmHg, pulsos amplos, tempo de enchimento capilar inferior a 1 segundo. Ausculta cardíaca e pulmonar sem alterações, abdome com percussão maciça, tenso e distendido, conforme imagem. Além de jejum e antibiótico, indique a conduta imediata indicada para a complicação apresentada.",
+        "images": ["/medsimulados/images/usp2023/page_28_img_1.png", "/medsimulados/images/usp2023/page_28_img_2.png"],
         "options": [
             {
                 "id": "a",
@@ -2203,6 +2275,7 @@ export const usp2023Questions = [
         "id": 89,
         "area": "Medicina Preventiva",
         "text": "Recém-nascido do sexo masculino, de 15 dias de vida, comparece à Unidade Básica de Saúde para consulta de rotina. A mãe tem 40 anos, é quartigesta com três cesarianas anteriores, hipertensa crônica, recebeu assistência pré-natal adequada, tendo apresentado diabetes gestacional controlada com dieta. Não há antecedente familiar de surdez permanente e os pais não são consanguíneos. A criança nasceu com 37 semanas e 2 dias de idade gestacional, de parto cesariano com peso de 2.700 g, APGAR 7/9/10, permanecendo internada devido à icterícia neonatal tratada com fototerapia. Recebeu alta da maternidade no quinto dia de vida, com icterícia zona II de Krammer, sem outras alterações ao exame clínico. Assinale a alternativa correta considerando o caso acima.",
+        "images": ["/medsimulados/images/usp2023/page_28_img_1.png", "/medsimulados/images/usp2023/page_28_img_2.png"],
         "options": [
             {
                 "id": "a",
@@ -2228,6 +2301,7 @@ export const usp2023Questions = [
         "id": 90,
         "area": "Medicina Preventiva",
         "text": "Recém-nascido a termo, adequado para idade gestacional, filho de mãe hígida com pré-natal adequado, ultrassom morfológico normal. Sorologia de toxoplasmose com 7 semanas de gestação: IgM (método elisa) positivo, IgG positivo, com alta avidez. Exame clínico normal ao nascimento. A conduta recomendada é:",
+        "images": ["/medsimulados/images/usp2023/page_28_img_1.png", "/medsimulados/images/usp2023/page_28_img_2.png"],
         "options": [
             {
                 "id": "a",
@@ -2378,6 +2452,7 @@ export const usp2023Questions = [
         "id": 96,
         "area": "Medicina Preventiva",
         "text": "Em consulta de rotina, a mãe de um lactente de 35 dias de vida encontra-se preocupada com o aparecimento de uma “ferida” no local da aplicação da vacina BCG, há 4 dias. A criança nasceu a termo, de parto normal, pesando 2.980 g, medindo 49 cm de comprimento, sem intercorrências no período perinatal. Na maternidade, recebeu as vacinas BCG e Hepatite B. Está em aleitamento materno exclusivo, ganhando 28 g de peso ao dia. Ao exame clínico, nota-se a presença de uma úlcera de 0,8 cm de diâmetro localizada na inserção inferior do músculo deltoide direito, sem saída de secreção e de gânglio axilar homolateral, indolor, de consistência fibroelástica, móvel, sem sinais flogísticos, medindo 2,5 cm. Sem outras alterações nos demais aparelhos e sistemas. Qual a conduta para este caso?",
+        "images": ["/medsimulados/images/usp2023/page_30_img_1.png", "/medsimulados/images/usp2023/page_30_img_2.png", "/medsimulados/images/usp2023/page_30_img_3.png", "/medsimulados/images/usp2023/page_30_img_4.png", "/medsimulados/images/usp2023/page_30_img_5.png", "/medsimulados/images/usp2023/page_30_img_6.png", "/medsimulados/images/usp2023/page_30_img_7.png"],
         "options": [
             {
                 "id": "a",
@@ -2403,6 +2478,7 @@ export const usp2023Questions = [
         "id": 97,
         "area": "Medicina Preventiva",
         "text": "Lactente de 5 meses, sexo masculino, com quadro de febre de até 38,2°C associada à tosse e à coriza que se iniciaram três dias antes da admissão hospitalar. Ao exame clínico da entrada, estava em bom estado geral, corado, hidratado, taquidispneico com frequência respiratória de 70 movimentos/minuto, saturação em ar ambiente de 89% e frequência cardíaca de 148 bpm. Ausculta pulmonar com estertores, roncos e sibilos difusos. O paciente foi internado na enfermaria geral da pediatria e apresentou boa evolução respiratória, mas voltou a apresentar febre de 38,9  ̊C e irritabilidade no quinto dia da doença. Qual das imagens abaixo representa a complicação mais provável apresentada pelo paciente?",
+        "images": ["/medsimulados/images/usp2023/page_30_img_1.png", "/medsimulados/images/usp2023/page_30_img_2.png", "/medsimulados/images/usp2023/page_30_img_3.png", "/medsimulados/images/usp2023/page_30_img_4.png", "/medsimulados/images/usp2023/page_30_img_5.png", "/medsimulados/images/usp2023/page_30_img_6.png", "/medsimulados/images/usp2023/page_30_img_7.png"],
         "options": [
             {
                 "id": "a",
@@ -2428,6 +2504,7 @@ export const usp2023Questions = [
         "id": 98,
         "area": "Medicina Preventiva",
         "text": "Lactente de 9 meses é leva do em consulta na Unidade Básica de Saúde apresentando lesões papulares há 3 dias, que evoluíram conforme imagem abaixo. Mãe refere que há rotura espontânea das lesões. Sem febre associada ou outras lesões. Em relação à principal hipótese diagnóstica, é possível afirmar que o agente etiológico causador é o mesmo agente da:",
+        "images": ["/medsimulados/images/usp2023/page_31_img_1.png"],
         "options": [
             {
                 "id": "a",
@@ -2453,6 +2530,7 @@ export const usp2023Questions = [
         "id": 99,
         "area": "Medicina Preventiva",
         "text": "Paciente de 9 anos, sexo masculino, asmático e portador de anemia falciforme, está internado na enfermaria da pediatria devido ao quadro de exacerbação asmática, associada à infecção das vias aéreas superiores. Na admissão, apresentava sibilos difusos, saturação 92% em ar ambiente, desconforto respiratório leve/moderado, com exame de imagem normal. No segundo dia de internação hospitalar, o paciente começou a se queixar de piora da falta de ar, dor em membros inferiores e na região torácica, de forte intensidade (nota 9/10 na escala numérica de dor). Sem febre ou outros sintomas associados. Ao exame clínic o, encontra-se hidratado, descorado 2+, com saturação de 92% em Venturi 50%, FC: 9 0  b p m ,  F R :  3 2  i r p m ,  P A :  9 6 x 5 0  m m H g ;  a p r e s e n t a desconforto moderado com ausculta mantida em relação ao último exame. Sem febre associada. Frente aos novos sintomas apresentados, qual a conduta indicada para o paciente acima?",
+        "images": ["/medsimulados/images/usp2023/page_31_img_1.png"],
         "options": [
             {
                 "id": "a",
@@ -2478,6 +2556,7 @@ export const usp2023Questions = [
         "id": 100,
         "area": "Medicina Preventiva",
         "text": "Paciente de 3 anos, sexo masculino, com antecedente de encefalopatia hipóxico-isquêmica, portador de gastrostomia e traqueostomia, foi internado na enfermaria devido ao quadro de pneumonia à direita. O paciente tem antecedente de epilepsia, em uso de ácido valproico, com bom controle das crises, e pneumonias de repetição, com diversas internações no último ano. Durante a internação atual, o p a c i e n t e  f o i  a v a l i a d o  p o r  e q u i p e  d e  f o n o a u d i o l o g i a ,  q u e identificou distúrbio de deglutição e sialorreia. Qual das alternativas abaixo contém medicações que devem ser adicionadas às de uso contínuo, com o objetivo de reduzir a recorrência destes quadros pulmonares?",
+        "images": ["/medsimulados/images/usp2023/page_31_img_1.png"],
         "options": [
             {
                 "id": "a",
@@ -2503,6 +2582,7 @@ export const usp2023Questions = [
         "id": 101,
         "area": "Casos Clínicos",
         "text": "Quais são as características do líquido sinovial compatíveis com a principal hipótese diagnóstica para o caso? Viscosidade Coloração Leucócitos (/mm3) Polimorfo- nucleares (%)",
+        "images": ["/medsimulados/images/usp2023/page_32_img_1.png"],
         "options": [
             {
                 "id": "a",
@@ -2528,6 +2608,7 @@ export const usp2023Questions = [
         "id": 102,
         "area": "Casos Clínicos",
         "text": "Considerando os dados de monitorização, qual é a conduta mais adequada?",
+        "images": ["/medsimulados/images/usp2023/page_33_img_1.png", "/medsimulados/images/usp2023/page_33_img_2.png", "/medsimulados/images/usp2023/page_33_img_3.png"],
         "options": [
             {
                 "id": "a",
@@ -2553,6 +2634,7 @@ export const usp2023Questions = [
         "id": 103,
         "area": "Casos Clínicos",
         "text": "Considerando a investigação da principal hipótese diagnóstica, qual é o exame subsidiário mais adequado?",
+        "images": ["/medsimulados/images/usp2023/page_34_img_1.png"],
         "options": [
             {
                 "id": "a",
@@ -2578,6 +2660,7 @@ export const usp2023Questions = [
         "id": 104,
         "area": "Casos Clínicos",
         "text": "Qual é o modo ventilatório programado para esta paciente?",
+        "images": ["/medsimulados/images/usp2023/page_34_img_1.png"],
         "options": [
             {
                 "id": "a",
@@ -2603,6 +2686,7 @@ export const usp2023Questions = [
         "id": 105,
         "area": "Casos Clínicos",
         "text": "Qual o achado de exame especular compatível com a principal hipótese diagnóstica?",
+        "images": ["/medsimulados/images/usp2023/page_35_img_1.png", "/medsimulados/images/usp2023/page_35_img_2.png", "/medsimulados/images/usp2023/page_35_img_3.png", "/medsimulados/images/usp2023/page_35_img_4.png", "/medsimulados/images/usp2023/page_35_img_5.png", "/medsimulados/images/usp2023/page_35_img_6.png", "/medsimulados/images/usp2023/page_35_img_7.png"],
         "options": [
             {
                 "id": "a",
@@ -2628,6 +2712,7 @@ export const usp2023Questions = [
         "id": 106,
         "area": "Casos Clínicos",
         "text": "A p a ci e n t e  f o i  t r a t a d a  cl i n i c a m e n t e  co m  m e l h o r a  d o  q u a d r o  e ,  cerca de um ano após este epis ódio, iniciou tentativa de engravidar; por não conseguir, começou a investigação. Qual o resultado de exame compatível com a condição previamente apresentada?",
+        "images": ["/medsimulados/images/usp2023/page_36_img_1.png", "/medsimulados/images/usp2023/page_36_img_2.png", "/medsimulados/images/usp2023/page_36_img_3.png", "/medsimulados/images/usp2023/page_36_img_4.png"],
         "options": [
             {
                 "id": "a",
@@ -2653,6 +2738,7 @@ export const usp2023Questions = [
         "id": 107,
         "area": "Casos Clínicos",
         "text": "Considerando as condições clínico-obstétricas e a segurança do binômio materno-fetal, qual é o item do plano de parto que não poderia ser contemplado na assistência obstétrica?",
+        "images": ["/medsimulados/images/usp2023/page_36_img_1.png", "/medsimulados/images/usp2023/page_36_img_2.png", "/medsimulados/images/usp2023/page_36_img_3.png", "/medsimulados/images/usp2023/page_36_img_4.png"],
         "options": [
             {
                 "id": "a",
@@ -2778,6 +2864,7 @@ export const usp2023Questions = [
         "id": 112,
         "area": "Casos Clínicos",
         "text": "Considerando as informações, é possível afirmar que ocorreu um surto de doença meningocócica neste município?",
+        "images": ["/medsimulados/images/usp2023/page_39_img_1.png"],
         "options": [
             {
                 "id": "a",
@@ -2803,6 +2890,7 @@ export const usp2023Questions = [
         "id": 113,
         "area": "Casos Clínicos",
         "text": "Qual é a tabela que apresenta as intervenções adequadas para ca da momento da evolução da paciente desde o momento da admissão (entrada) até a quarta hora de atendimento?",
+        "images": ["/medsimulados/images/usp2023/page_39_img_1.png"],
         "options": [
             {
                 "id": "a",
@@ -2828,6 +2916,7 @@ export const usp2023Questions = [
         "id": 114,
         "area": "Casos Clínicos",
         "text": "Qual dos exames de imagem abaixo é compatível com a principal hipótese diagnóstica?",
+        "images": ["/medsimulados/images/usp2023/page_41_img_1.png", "/medsimulados/images/usp2023/page_41_img_2.png", "/medsimulados/images/usp2023/page_41_img_3.png", "/medsimulados/images/usp2023/page_41_img_4.png"],
         "options": [
             {
                 "id": "a",
@@ -2853,6 +2942,7 @@ export const usp2023Questions = [
         "id": 115,
         "area": "Casos Clínicos",
         "text": "Qual é a prescrição inicial mais adequada (itens 1-3) e o antimicrobiano a ser introduzido (item 4)? 1 )  Salbutamol 600 mcg, via inalatória, 3x com intervalo de 20 minutos;",
+        "images": ["/medsimulados/images/usp2023/page_42_img_1.png"],
         "options": [
             {
                 "id": "a",
@@ -2878,6 +2968,7 @@ export const usp2023Questions = [
         "id": 116,
         "area": "Casos Clínicos",
         "text": "Quais as imagens de ultrassom pulmonar compatíveis com a radiografia previamente apresentada?",
+        "images": ["/medsimulados/images/usp2023/page_43_img_1.png", "/medsimulados/images/usp2023/page_43_img_2.png", "/medsimulados/images/usp2023/page_43_img_3.png", "/medsimulados/images/usp2023/page_43_img_4.png", "/medsimulados/images/usp2023/page_43_img_5.png", "/medsimulados/images/usp2023/page_43_img_6.png", "/medsimulados/images/usp2023/page_43_img_7.png", "/medsimulados/images/usp2023/page_43_img_8.png"],
         "options": [
             {
                 "id": "a",
@@ -2903,6 +2994,7 @@ export const usp2023Questions = [
         "id": 117,
         "area": "Casos Clínicos",
         "text": "Qual é o dispositivo que tem que ser usado para a nutrição do doente neste momento?",
+        "images": ["/medsimulados/images/usp2023/page_44_img_1.png", "/medsimulados/images/usp2023/page_44_img_2.png", "/medsimulados/images/usp2023/page_44_img_3.png", "/medsimulados/images/usp2023/page_44_img_4.png"],
         "options": [
             {
                 "id": "a",
@@ -2928,6 +3020,7 @@ export const usp2023Questions = [
         "id": 118,
         "area": "Casos Clínicos",
         "text": "Foi indicado tratamento operatório. Quais são as medidas que de vem ser adotadas no pré-operatório com relação ao clopidogrel e à metformina?",
+        "images": ["/medsimulados/images/usp2023/page_44_img_1.png", "/medsimulados/images/usp2023/page_44_img_2.png", "/medsimulados/images/usp2023/page_44_img_3.png", "/medsimulados/images/usp2023/page_44_img_4.png"],
         "options": [
             {
                 "id": "a",
@@ -2953,6 +3046,7 @@ export const usp2023Questions = [
         "id": 119,
         "area": "Casos Clínicos",
         "text": "Qual é a imagem do FAST esperada para esta paciente?",
+        "images": ["/medsimulados/images/usp2023/page_45_img_1.png", "/medsimulados/images/usp2023/page_45_img_2.png", "/medsimulados/images/usp2023/page_45_img_3.png", "/medsimulados/images/usp2023/page_45_img_4.png"],
         "options": [
             {
                 "id": "a",
@@ -2978,6 +3072,7 @@ export const usp2023Questions = [
         "id": 120,
         "area": "Casos Clínicos",
         "text": "Qual das ilustrações abaixo representa a melhor conduta operatória?",
+        "images": ["/medsimulados/images/usp2023/page_46_img_1.png", "/medsimulados/images/usp2023/page_46_img_2.png", "/medsimulados/images/usp2023/page_46_img_3.png", "/medsimulados/images/usp2023/page_46_img_4.png", "/medsimulados/images/usp2023/page_46_img_5.png"],
         "options": [
             {
                 "id": "a",
