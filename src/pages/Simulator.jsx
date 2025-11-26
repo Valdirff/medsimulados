@@ -13,7 +13,8 @@ export function Simulator() {
     const [answers, setAnswers] = useState({}); // Armazena respostas para revisão futura
 
     useEffect(() => {
-        const foundExam = examsData.find(e => e.id === examId);
+        const idToLoad = examId || "enare-2024-real";
+        const foundExam = examsData.find(e => e.id === idToLoad);
         if (foundExam) {
             setExam(foundExam);
         }
@@ -155,34 +156,50 @@ export function Simulator() {
                     </div>
 
                     {/* Ações e Feedback */}
-                    {!isAnswered ? (
-                        <button
-                            className="btn btn-primary"
-                            onClick={handleSubmit}
-                            disabled={!selectedOption}
-                            style={{ marginTop: 'var(--spacing-lg)', width: '100%', padding: '1rem', fontSize: '1.1rem', opacity: !selectedOption ? 0.5 : 1 }}
-                        >
-                            Confirmar Resposta
-                        </button>
-                    ) : (
-                        <div className="feedback-section" style={{ marginTop: 'var(--spacing-lg)', animation: 'fadeIn 0.5s' }}>
-                            <div style={{
-                                padding: '1.5rem',
-                                background: 'var(--color-background)',
-                                borderLeft: `4px solid ${selectedOption === currentQuestion.correctOption ? '#4ade80' : '#f87171'}`,
-                                borderRadius: '0 var(--radius-sm) var(--radius-sm) 0',
-                                marginBottom: 'var(--spacing-md)'
-                            }}>
-                                <h4 style={{ color: selectedOption === currentQuestion.correctOption ? '#4ade80' : '#f87171', marginBottom: '0.5rem', fontSize: '1.1rem' }}>
-                                    {selectedOption === currentQuestion.correctOption ? '✅ Resposta Correta!' : '❌ Resposta Incorreta'}
-                                </h4>
-                                <p style={{ fontSize: '1rem', color: 'var(--color-text-muted)' }}>{currentQuestion.comment}</p>
-                            </div>
-                            <button className="btn btn-primary" onClick={handleNext} style={{ width: '100%', padding: '1rem' }}>
-                                {currentQuestionIndex < exam.questions.length - 1 ? 'Próxima Questão →' : 'Finalizar Prova'}
+                    <div style={{ display: 'flex', gap: '1rem', marginTop: 'var(--spacing-lg)' }}>
+                        {currentQuestionIndex > 0 && (
+                            <button
+                                className="btn btn-outline"
+                                onClick={() => {
+                                    setCurrentQuestionIndex(prev => prev - 1);
+                                    setIsAnswered(false);
+                                    setSelectedOption(null);
+                                }}
+                                style={{ flex: 1, padding: '1rem' }}
+                            >
+                                ← Voltar
                             </button>
-                        </div>
-                    )}
+                        )}
+
+                        {!isAnswered ? (
+                            <button
+                                className="btn btn-primary"
+                                onClick={handleSubmit}
+                                disabled={!selectedOption}
+                                style={{ flex: 2, padding: '1rem', fontSize: '1.1rem', opacity: !selectedOption ? 0.5 : 1 }}
+                            >
+                                Confirmar Resposta
+                            </button>
+                        ) : (
+                            <div className="feedback-section" style={{ flex: 2, animation: 'fadeIn 0.5s' }}>
+                                <div style={{
+                                    padding: '1.5rem',
+                                    background: 'var(--color-background)',
+                                    borderLeft: `4px solid ${selectedOption === currentQuestion.correctOption ? '#4ade80' : '#f87171'}`,
+                                    borderRadius: '0 var(--radius-sm) var(--radius-sm) 0',
+                                    marginBottom: 'var(--spacing-md)'
+                                }}>
+                                    <h4 style={{ color: selectedOption === currentQuestion.correctOption ? '#4ade80' : '#f87171', marginBottom: '0.5rem', fontSize: '1.1rem' }}>
+                                        {selectedOption === currentQuestion.correctOption ? '✅ Resposta Correta!' : '❌ Resposta Incorreta'}
+                                    </h4>
+                                    <p style={{ fontSize: '1rem', color: 'var(--color-text-muted)' }}>{currentQuestion.comment}</p>
+                                </div>
+                                <button className="btn btn-primary" onClick={handleNext} style={{ width: '100%', padding: '1rem' }}>
+                                    {currentQuestionIndex < exam.questions.length - 1 ? 'Próxima Questão →' : 'Finalizar Prova'}
+                                </button>
+                            </div>
+                        )}
+                    </div>
                 </div>
             </div>
         </div>

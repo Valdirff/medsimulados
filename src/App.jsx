@@ -7,7 +7,7 @@ import { Simulator } from './pages/Simulator';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/medsimulados">
       <div className="app">
         <Header />
         <Routes>

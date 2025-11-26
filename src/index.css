@@ -69,14 +69,22 @@ button {
 }
 
 /* Utilitários de Layout */
+.app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
 .container {
-  max-width: 1200px;
+  width: 100%;
+  max-width: 1280px;
   margin: 0 auto;
   padding: 0 var(--spacing-md);
 }
 
 .section {
   padding: var(--spacing-xl) 0;
+  flex: 1;
 }
 
 .grid {
@@ -112,6 +120,7 @@ h1 {
   letter-spacing: -0.02em;
   background: linear-gradient(to right, #fff, #94a3b8);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
@@ -293,5 +302,12 @@ p {
 
   .card {
     padding: 1.5rem;
+  }
+}
+
+/* Otimização Desktop Grande */
+@media (min-width: 1440px) {
+  .container {
+    max-width: 1400px;
   }
 }
