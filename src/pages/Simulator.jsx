@@ -130,7 +130,7 @@ export function Simulator() {
                             {currentQuestion.images.map((imgSrc, index) => (
                                 <img
                                     key={index}
-                                    src={imgSrc}
+                                    src={imgSrc.startsWith('http') ? imgSrc : `${import.meta.env.BASE_URL}${imgSrc}`}
                                     alt={`Imagem ${index + 1} da questão`}
                                     style={{ maxWidth: '100%', borderRadius: 'var(--radius-sm)', border: '1px solid var(--color-border)' }}
                                 />
@@ -138,7 +138,6 @@ export function Simulator() {
                         </div>
                     )}
 
-                    {/* Alternativas */}
                     <div className="options-grid" style={{ display: 'grid', gap: 'var(--spacing-sm)' }}>
                         {currentQuestion.options.map(option => {
                             let optionClass = 'option-btn';
